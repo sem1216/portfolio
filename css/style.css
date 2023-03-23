@@ -1,1 +1,43 @@
-
+*{
+    background-color: skyblue;
+  }
+  .cover{
+      width: 100%;
+  }
+  .item ul li{
+      letter-spacing:1px;
+      font-size: 15px;
+      font-weight: bold;
+  }
+  .item ul li a{
+      color: blue;
+  }
+  .item p s{
+      color: red;
+  }
+  .bag1{
+      width: 175px;
+      height:175px;
+  }
+  .bag2{
+    width: 175px;
+    height: 175px;
+  }
+  .bag3{
+    width: 175px;
+    height: 175px;
+  }
+  .bag4{
+    width: 175px;
+    height: 175px;
+  }
+  .item p{
+      letter-spacing:0.8px;
+      font-size: 14px;
+      font-weight: bold;
+  }
+  .by b{
+      letter-spacing:1px;
+      font-size: 18px;
+      font-weight: bold;
+  }
