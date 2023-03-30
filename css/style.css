@@ -1,34 +1,58 @@
-body {
-    font-family: Arial, sans-serif;
-    background-color: #f2f2f2;
-    margin: 0px;
-    padding: 0px;
-  } 
-  .header {
-    background-color: #333;
-    color: #fff;
-    padding: 20px;
-    text-align: center;
-  } 
-  .img {
-    width: 100%;
-    height: auto;
-    border: 20px;
-  }
-  .container {
-    margin: 20px;
-  } 
-  h2 {
-    color: #333;
-    margin-top: 20px;
-    margin-bottom: 10px;
-  } 
-  p {
-    color: #666;
-    line-height: 1.5;
-  } 
-  footer {
-    background-color: #333;
-    color: #fff;
-    padding: 10px;
-  }
+body{
+    background-color: rgba(0, 0, 0, 0.4);
+    margin: 0%;
+    padding: 0%;
+}
+.box{
+    border-radius: 30px;
+    border: 5px;
+    box-shadow: 5px 10px rgba(0, 0, 0, 0.4);
+    width: 1000px;
+    background: white;
+    padding: 40px;
+    text-align: none;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: black;
+    font-family: 'Century Gothic', sans-serif;
+}
+.img-box{
+    width: 150px;
+    border-radius: 75px;
+    /*box-shadow: 3px 6px rgba(0, 0, 0, 0.15);*/
+}
+.name{
+    margin-left: 10px;
+    font-family: 'Century Gothic', sans-serif;
+}
+.box p{
+    margin-left: 80px;
+    letter-spacing:1px;
+    font-size: 15px;
+    font-weight: bold;
+    font-family: 'Century Gothic', sans-serif;
+    color: black;
+}
+.box h4{
+    color: rgb(21, 18, 201);
+    font-family: 'Century Gothic', sans-serif;
+}
+.summary p{
+    margin-left: 2px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.work-ex p{
+    margin-left: 2px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
+.box li{
+    margin-left: 2px;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: bold;
+}
