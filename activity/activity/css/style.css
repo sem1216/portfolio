@@ -1,0 +1,31 @@
+.text{
+    text-align: center;
+    justify-content: center;
+    text-decoration: none;
+}
+
+#mynavbar{
+    font-size: 20px;
+}
+
+#logo{
+	width: 80px;
+	height: 80px;
+}
+
+.tourist-spots img {
+	height: 175px;
+}
+
+.p{
+    font-size: x-large;
+    text-align: center;
+}
+
+.tourist-spots2 img{
+	height: 400px;
+}
+
+.mt-2 {
+	margin-top: 2;
+}
